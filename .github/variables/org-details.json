@@ -1,0 +1,28 @@
+{
+  "variables": [
+    {
+      "name": "cus_prefix",
+      "value": "est"
+    },
+    {
+      "name": "team_suffix",
+      "value": "t4"
+    },
+    {
+      "name": "subscriptionid",
+      "value": "d728ebb0-62cf-41cd-a08f-0096c2644b0a"
+    },
+    {
+      "name": "repoName",
+      "value": "est-mgr-sh360-coupons-t4"
+    },
+    {
+      "name": "servicePrincipleObjId",
+      "value": "a6c42098-0797-4862-8d05-a3d7a623e01c"
+    },
+    {
+      "name": "servicePrincipleClientId",
+      "value": "b6d770ff-5a49-4580-bb5e-67f2e69ef670"
+    }
+  ]
+}
